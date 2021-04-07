@@ -6,6 +6,11 @@ I'm passionate about solving problems, learning and teaching others. Always open
 
 #### 🌍"Quanto mais eu sei, mais eu sou"🧠
 
+- 📍 From SP living in Mogi das Cruzes
+- 👨‍💻 Back-end developer
+
+Reach me out 👨‍💻
+
 <!--
 **Chriszao/Chriszao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
