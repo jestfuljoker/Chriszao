@@ -23,3 +23,20 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 <p align="center">
 <a href="https://www.linkedin.com/in/christofer-assis-963380149/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-Christofer%20Assis-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.instagram.com/_chriszao_/?hl=pt-br"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Christofer%20Assis-blue?style=flat&logo=instagram"></a>
+
+
+[![Chriszao GitHub stats](https://github-readme-stats.vercel.app/api?username=Chriszao)](https://github.com/Chriszao/github-readme-stats)
+
+  <a href="https://github.com/Chriszao/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chriszao" />
+  </a>
+  <p>
+    <img src="https://views.whatilearened.today/views/github/Chriszao/views.svg"/>
+    <a href="https://github.com/Chriszao/"><img src="https://img.shields.io/github/followers/Chriszao?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/Chriszao?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+    <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
+    <a href="mailto:chris.f.assis18@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Bayrem%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
+    <img src="https://img.shields.io/badge/Os-Windows-a80030"/>
+  </p>
+</p>
+<br/><br/>
