@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is Christofer Assis, I'm from brazil 🇧🇷 I'm a systems analyst and developer, that has been working as a Back-end developer since 2019. :man_technologist_tone3:
+My name is Christofer Assis, I'm from brazil. I'm a systems analyst and developer, that has been working as a Back-end developer since 2019. 👨‍💻
 
 I'm passionate about solving problems, learning and teaching others. Always open to new challenges and ready to face changes.
 
