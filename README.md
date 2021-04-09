@@ -30,6 +30,7 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
   <a href="https://github.com/Chriszao/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chriszao" />
   </a>
+  <p></p>
   <p>
     <img src="https://views.whatilearened.today/views/github/Chriszao/views.svg"/>
     <a href="https://github.com/Chriszao/"><img src="https://img.shields.io/github/followers/Chriszao?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
