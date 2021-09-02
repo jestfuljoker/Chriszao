@@ -16,11 +16,11 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 
 </p>
 <a href="https://github.com/Chriszao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriszao&theme=dracula&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriszao&theme=dracula&hide_langs_below=1" />
 </a>
 <p/></br>
 <a href="https://github.com/Chriszao">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chriszao&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chriszao&show_icons=true&theme=dracula&line_height=27" alt="Christofer github stats"/>
 </a>
 
 ## 🚀 My Skills
