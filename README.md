@@ -3,7 +3,7 @@
 </h2>
   <h3 align="center">🌍"Quanto mais eu sei, mais eu sou"🧠</h3>
 <div style="display: flex;">  
-  <div>
+  <div style="width: 50%; display: flex; flex-direction: column;">
     <div>
       <p style="text-align: justify;">
         I'm a systems analyst and developer, that has been working as a Back-end developer since 2019. 👨‍💻
@@ -24,7 +24,7 @@
       Striving to maintain the perfect balance between <code>It doesn't work...! Why?</code> vs <code>It works...! Why?</code>.
     </p>
   </div>
-  <div>
+  <div style="width: 50%;">
     <img style="width: 300px; min-width: 300px; max-width: 3000px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador Chriszao">
   </div>
 </div>
