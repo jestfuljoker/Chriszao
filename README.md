@@ -18,7 +18,7 @@
   Striving to maintain the perfect balance between <code>It doesn't work...! Why?</code> vs <code>It works...! Why?</code>.
 </p>
 
-<h2 align="center" style="color: #BD93F9"> 🐱‍👤 My metrics on Github 🐱‍👤</h2>
+<h2 align="center"> 🐱‍👤 My metrics on Github 🐱‍👤</h2>
 
 <p align="center">
   <a href="https://github.com/Chriszao">
