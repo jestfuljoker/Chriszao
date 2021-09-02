@@ -1,54 +1,38 @@
 <h2 align="center"> 
   👋 Hi, I'm <strong>Christofer Assis</strong>.
 </h2>
-  <h3 align="center">🌍"Quanto mais eu sei, mais eu sou"🧠</h3>
-<div style="display: flex;">  
-  <div style="width: 50%; display: flex; flex-direction: column;">
-    <div>
-      <p style="text-align: justify;">
-        I'm a systems analyst and developer, that has been working as a Back-end developer since 2019. 👨‍💻
-        I'm passionate about solving problems, learning and teaching others. Always open to new challenges and ready to face changes.
-      </p>
-    </div>
-    <div>
-      <ul>
-        <li style="margin-bottom: 8px">
-          📍 From SP living in Mogi das Cruzes
-        </li>
-        <li>
-          👨‍💻 Fullstack developer
-        </li>
-      </ul>
-    </div>
-    <p>
-      Striving to maintain the perfect balance between <code>It doesn't work...! Why?</code> vs <code>It works...! Why?</code>.
-    </p>
-  </div>
-  <div style="width: 50%;">
-    <img style="width: 300px; min-width: 300px; max-width: 3000px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador Chriszao">
-  </div>
-</div>
+
+<h3 align="center">🌍"Quanto mais eu sei, mais eu sou"🧠</h3>
+
+<img width="300px" min-width="300px" max-width="300px" align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador Chriszao">
+
+<p align="left">
+  I'm a systems analyst and developer, that has been working as a Back-end developer since 2019. 👨‍💻
+  I'm passionate about solving problems, learning and teaching others. Always open to new challenges and ready to face changes.
+</p>
+
+- 📍 From SP living in Mogi das Cruzes
+- 👨‍💻 Fullstack developer
+
+<p align="left">
+  Striving to maintain the perfect balance between <code>It doesn't work...! Why?</code> vs <code>It works...! Why?</code>.
+</p>
 
 <h2 align="center" style="color: #BD93F9"> 🐱‍👤 My metrics on Github 🐱‍👤</h2>
 
-<div style="
-  display: flex; 
-  flex-direction: column; 
-  align-items: center; 
-  gap: 16px; 
-  margin: 20px 0 40px 0;
-">
-  <div>
-    <a href="https://github.com/Chriszao">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriszao&theme=dracula&hide_langs_below=1" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/Chriszao">
-     <img src="https://github-readme-stats.vercel.app/api?username=Chriszao&show_icons=true&theme=dracula&line_height=27" alt="Christofer github stats"/>
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="https://github.com/Chriszao">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriszao&theme=dracula&hide_langs_below=1" />
+  </a>
+</p>
+
+<p></p>
+
+<p align="center">
+  <a href="https://github.com/Chriszao">
+    <img src="https://github-readme-stats.vercel.app/api?username=Chriszao&show_icons=true&theme=dracula&line_height=27" alt="Christofer github stats"/>
+  </a>
+</p>
 
 <p align="center">
   💌 You can find me around here: ⤵️
