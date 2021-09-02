@@ -18,6 +18,8 @@
   Striving to maintain the perfect balance between <code>It doesn't work...! Why?</code> vs <code>It works...! Why?</code>.
 </p>
 
+<p></p>
+
 <h2 align="center"> 🐱‍👤 My metrics on Github 🐱‍👤</h2>
 
 <p align="center">
