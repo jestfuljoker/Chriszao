@@ -1,34 +1,60 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<h2 align="center"> 
+  👋 Hi, I'm <strong>Christofer Assis</strong>.
+</h2>
+  <h3 align="center">🌍"Quanto mais eu sei, mais eu sou"🧠</h3>
+<div style="display: flex;">  
+  <div>
+    <div>
+      <p style="text-align: justify;">
+        I'm a systems analyst and developer, that has been working as a Back-end developer since 2019. 👨‍💻
+        I'm passionate about solving problems, learning and teaching others. Always open to new challenges and ready to face changes.
+      </p>
+    </div>
+    <div>
+      <ul>
+        <li style="margin-bottom: 8px">
+          📍 From SP living in Mogi das Cruzes
+        </li>
+        <li>
+          👨‍💻 Fullstack developer
+        </li>
+      </ul>
+    </div>
+    <p>
+      Striving to maintain the perfect balance between <code>It doesn't work...! Why?</code> vs <code>It works...! Why?</code>.
+    </p>
+  </div>
+  <div>
+    <img style="width: 300px; min-width: 300px; max-width: 3000px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador Chriszao">
+  </div>
+</div>
 
-<p align="left"> 
-  👋 Hi, I'm Christofer Assis (Chris).
+<h2 align="center" style="color: #BD93F9"> 🐱‍👤 My metrics on Github 🐱‍👤</h2>
 
-I'm a systems analyst and developer, that has been working as a Back-end developer since 2019. 👨‍💻
+<div style="
+  display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+  gap: 16px; 
+  margin: 20px 0 40px 0;
+">
+  <div>
+    <a href="https://github.com/Chriszao">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriszao&theme=dracula&hide_langs_below=1" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/Chriszao">
+     <img src="https://github-readme-stats.vercel.app/api?username=Chriszao&show_icons=true&theme=dracula&line_height=27" alt="Christofer github stats"/>
+    </a>
+  </div>
+</div>
 
-I'm passionate about solving problems, learning and teaching others. Always open to new challenges and ready to face changes.
-
-#### 🌍"Quanto mais eu sei, mais eu sou"🧠
-
-- 📍 From SP living in Mogi das Cruzes
-- 👨‍💻 Back-end developer
-
-Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.
-
-</p>
-<a href="https://github.com/Chriszao">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriszao&theme=dracula&hide_langs_below=1" />
-</a>
-<p/></br>
-<a href="https://github.com/Chriszao">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chriszao&show_icons=true&theme=dracula&line_height=27" alt="Christofer github stats"/>
-</a>
-
-<br align="left">
+<p align="center">
   💌 You can find me around here: ⤵️
-</br>
-</br>
+</p>
 
-<p align="left">
+<p align="center">
   <a href="mailto:chris.f.assis18@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
@@ -43,4 +69,4 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 
   <a href="https://www.instagram.com/_chriszao_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+</p> 
