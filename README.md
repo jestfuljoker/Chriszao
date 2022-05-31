@@ -2,17 +2,18 @@
   👋 Hi, I'm <strong>Christofer Assis</strong>.
 </h2>
 
-<h3 align="center">🌍"Quanto mais eu sei, mais eu sou"🧠</h3>
+<h3 align="center">🌍"The more I know, more I am"🧠</h3>
 
 <img width="300px" min-width="300px" max-width="300px" align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador Chriszao">
 
 <p align="left">
-  I'm a systems analyst and developer, that has been working as a Back-end developer since 2019. 👨‍💻
-  I'm passionate about solving problems, learning and teaching others. Always open to new challenges and ready to face changes.
+  A developer fascinated with solving problems. Passionate about learning and teaching, considering myself an eternal apprentice! 
+  Always open to new challenges and ready to face changes. 
+  
 </p>
 
-- 📍 From SP living in Mogi das Cruzes
-- 👨‍💻 Fullstack developer
+- 📍 From PR living in Ponta Grossa
+- 👨‍💻 Full stack developer since 2020
 
 <p align="left">
   Striving to maintain the perfect balance between <code>It doesn't work...! Why?</code> vs <code>It works...! Why?</code>.
@@ -49,9 +50,6 @@
 
   <a href="https://api.whatsapp.com/send?phone=5511993303722" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="https://www.facebook.com/Christofer.Assis/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
   <a href="https://www.instagram.com/_chriszao_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
