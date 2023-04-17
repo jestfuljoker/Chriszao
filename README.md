@@ -12,7 +12,7 @@
   
 </p>
 
-- 📍 From PR living in Ponta Grossa
+- 📍 From SP living in Mogi das Cruzes
 - 👨‍💻 Full stack developer since 2020
 
 <p align="left">
